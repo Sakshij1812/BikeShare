@@ -3,23 +3,15 @@
 
 
 
-* Get the source code, unzip, run app.py *
-
-The final source code of the software is available in the .zip file.
-
-Step1: 
-Unzip the .zip file and go to ‘Folder 2’. 
-
-Step 2: 
+* Get the source code, run app.py *
+Step 1: 
 Make sure that the database file: ‘bikesharedatabase.db’ is kept in the same folder as that of ‘app.py’.
 
-Step 3: 
+Step 2: 
 Run the ‘app.py’ file with a Python IDE(preferably Spyder).
 
 Expected Result: 
 The software starts successfully with login window displayed on the screen.
-
-
 
 
 * Existing user credentials to login to system *
