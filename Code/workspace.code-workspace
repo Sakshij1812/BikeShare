@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "bike-share-py",
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+
+			{
+				"name": "Python: App File",
+				"type": "python",
+				"request": "launch",
+				"program": "${workspaceFolder}\\App.py"
+			}
+		]
+	}
+}
